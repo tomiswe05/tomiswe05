@@ -1,5 +1,7 @@
-# 💫 About Me:
-I’m a Software Engineer with experience building scalable backend systems <br>using Python (FastAPI), Docker, and cloud platforms.<br> I enjoy designing clean RESTful APIs, deploying containerized applications, and seamlessly integrating backend services with React-based frontend systems.<br>I have a strong foundation in data structures, algorithms, and system design, with hands-on experience delivering production-ready software in collaborative environments. <br>I also work with Prompt Engineering and Retrieval-Augmented Generation (RAG) to build intelligent, context-aware applications.<br>I’m known for a creative, high-energy (“vibe-driven”) approach to problem-solving while still prioritizing clean, maintainable, and well-tested code.
+#  About Me:
+AI Engineer focused on building intelligent systems that solve real problems. 
+I design AI workflows, implement RAG pipelines, and deploy production agents 
+with careful attention to cost optimization, monitoring, and system evaluation.
 
 
 ## 🌐 Socials:
